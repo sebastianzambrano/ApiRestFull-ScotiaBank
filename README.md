@@ -5,9 +5,7 @@ Incluye enlaces relevantes sobre documentación, repositorios, herramientas de g
 
 ## Repositorios
 
-**Frontend**: 
 - [Repositorio del Backend](https://github.com/sebastianzambrano/Backend-ApiRestFull-ScotiaBank.git)
-**Backend**:
 - [Repositorio del Frontend](https://github.com/sebastianzambrano/Frontend-ApiRestFull-ScotiaBank.git)
 
 ## Herramientas de Gestión de Proyectos
